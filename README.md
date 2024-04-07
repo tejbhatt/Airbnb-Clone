@@ -18,7 +18,6 @@
 - [x] **Booking/Reservation System**
 - [x] **Guest Reservation Cancellation and Owner Reservation Cancellation**
 - [x] **Creation and Deletion of Properties**
-- [x] **Pricing Calculation**
 - [x] **Advanced Search Algorithm**
 - [x] **Favorites System**
 - [x] **Shareable URL Filters**
